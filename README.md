@@ -1,5 +1,5 @@
 # Специализации Яндекс Лицея
-## «Big Data» осень 2024 - уроки & проектный этап
+## «Анализ данных» весна 2025 - уроки & проектный этап
 
 [Ссылка на специализацию][intensive]
 
@@ -30,7 +30,7 @@ CSV файл с логами пользователей интернет маг�
 
 ### Пояснения
 
-- `Lesson_[*]` - урок с выполненными заданиями (~80%)
+- `Lesson_[*]` - урок с выполненными заданиями (~xx%)
 - `Project` - пусто, т.к. проект выполнялся с помощью DataLens и ClickHouse (Trial)
 
 ## Ссылки
@@ -47,13 +47,13 @@ CSV файл с логами пользователей интернет маг�
 | DataLens (публичный)      | [https://datalens.yandex/h25ifyymrsxg4][datalens]       |
 | Google Docs (презентация) | [https://docs.google.com/presentation/][pres]           |
 | Miro (заметки)            | [https://miro.com/app/board/][miro]                     |
-| GitHub                    | [https://github.com/AndryMaster/BigData_Yandex][github] |
+| GitHub                    | [https://github.com/AndryMaster/Analysis_Yandex][github]|
 
 ## License
 MIT
 
 
-   [intensive]: <https://lyceum.yandex.ru/bigdata>
+   [intensive]: <https://lyceum.yandex.ru/data-analysis>
    [datalens]: <https://datalens.yandex/h25ifyymrsxg4>
    [github]: <https://github.com/AndryMaster/BigData_Yandex>
    [cert]: <https://github.com/AndryMaster/BigData_Yandex/tree/master/certificate.pdf>
