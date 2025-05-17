@@ -59,7 +59,7 @@
 
 | Source                       | Link                                                     |
 |------------------------------|----------------------------------------------------------|
-| Сертификат                   | [link][cert]                                             |
+| Сертификат                   | [link][certificate]                                      |
 | DataLens (публичный)         | [DataLens][datalens]                                     |
 | DataLens (приватный)         | [DataLens (приватный)][datalens_private]                 |
 | Google Disk (файлы на сдачу) | [https://drive.google.com/drive/folders][disk]           |
@@ -74,7 +74,4 @@ MIT
    [datalens_private]: <https://datalens.yandex/dn858tj881luz>
    [disk]: <https://drive.google.com/drive/folders/1CmsKOrducdkW6XQFM4JrdP6FYzOqH3Yb>
    [github]: <https://github.com/AndryMaster/Analysis_Yandex>
-
-   [cert]: <https://github.com>
-   [//]: # (todo)
-
+   [certificate]: <https://github.com/AndryMaster/Analysis_Yandex/tree/master/certificate.pdf>
